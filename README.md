@@ -95,3 +95,6 @@ This shows discounts may be helping sales, but they can reduce profit.
 . South region needs improvement
 
 The business should focus more on profit, not just sales.
+
+Data link: 
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
